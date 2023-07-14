@@ -20,7 +20,7 @@ rustc --version
 rustc -V
 ```
 
-一般來說按照預設的執行下去就會安裝好`cargo`，`carogo`是 rust的`建置系統`以及`套件管理器`以後會做越來越大的Project會越常使用到`cargo` 來處理你的`dependencies`
+一般來說按照預設的執行下去就會安裝好`cargo`，`cargo`是 rust的`建置系統`以及`套件管理器`以後會做越來越大的Project會越常使用到`cargo` 來處理你的`dependencies`
 
 ```bash
 cargo --version
